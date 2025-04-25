@@ -4,6 +4,6 @@
 
 server = "http://api.thingspeak.com" # Server URL for ThingSpeak
 channel = "1234567" # Channel ID
-apikey = "1234567890ABCDEF" # API key for ThingSpeak
+writeapikey = "1234567890ABCDEF" # API key for ThingSpeak
 readapikey ="1234567890ABCDEF" # Read API key for ThingSpeak
 
